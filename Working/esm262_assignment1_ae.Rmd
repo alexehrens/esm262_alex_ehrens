@@ -1,0 +1,14 @@
+---
+title: "esm262_assignment_1_ae"
+author: "Alex Ehrens"
+date: "2/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. Why I'm taking ESM 262:
+
+I'm taking Computing for Environmental Science because I am pursuing the Environmental Data Science focus to complement my specialization in Water Resources Management. 
